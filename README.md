@@ -6,12 +6,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=aviraljain19&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aviraljain19&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aviraljain19&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-###🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aviraljain19&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aviraljain19&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+###🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aviraljain19&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aviraljain19&icon=2&color=6)](https://visitcount.itsvg.in)
